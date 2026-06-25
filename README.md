@@ -1,30 +1,41 @@
-# Hi, I'm Maxim Akinshin 👋
+# hi, i'm Maxim Akinshin 👋
 
-**Developer | 3rd-year BTMSX Student | Creator of the VEIN Ecosystem**
+**developer | 3rd-year btmsx student | creator of the vein ecosystem**
 
-I write practical code, focus on solid technical architecture, and keep things efficient. 
+i write practical code, focus on solid technical architecture, and keep things efficient. 
 
-## 🛠 Tech Stack
+## 🛠 tech stack
 
-| Area | Technologies |
+| area | technologies |
 | :--- | :--- |
-| **Languages & Frameworks** | `C#`, `.NET`, `Python`, `WPF` |
-| **Databases** | `MS SQL` |
-| **Specialties** | `Automation`, `Systems Architecture` |
+| **languages & frameworks** | `c#`, `.net`, `python`, `wpf` |
+| **databases** | `ms sql` |
+| **specialties** | `automation`, `systems architecture` |
 
-## 🚀 Focus & Projects
+## 🚀 focus & projects
 
-* **VEIN Ecosystem:** Expanding the `vein.guru` domain. Currently transitioning from *VEINMusic* to engineering the *VEIN Pulse* social network.
-* **Digital Workshop:** Developed a core automation platform for a championship utilizing .NET and MS SQL.
-* **Desktop Development:** Building robust WPF applications (including heavy coursework projects).
-* **Open-Source:** Contributing to collaborative repositories, such as a custom *Messenger* project.
+* **vein ecosystem:** expanding the `vein.guru` domain. actively developing both veinmusic and the vein pulse social network.
+* **digital workshop:** developed a core automation platform for a championship utilizing .net and ms sql.
+* **desktop development:** building robust wpf applications (including complex coursework projects).
+* **open-source:** contributing to collaborative repositories and participating in open-source bounties.
 
-## 💡 Mindset
+## 🤝 support my work
 
-Even outside of main tasks, I'm actively experimenting with code. I enjoy exploring new architectural patterns in .NET, optimizing desktop app performance, and brainstorming the next technical leaps for the VEIN ecosystem. Development isn't just my major - it's my mindset.
+if my open-source contributions helped you, feel free to drop a tip:
+
+| crypto | address |
+| :--- | :--- |
+| **usdt (trc20)** | `TQfBsbbdLYvdPLhbobxoLsMzdvfPi6Yp5p` |
+| **eth / evm** | `0xdd520b08780CD0eCD58b3713D9C3C5aB7263B468` |
+| **solana** | `GqHB68MkooFs2GEctsnnVmMNYpmPLGYLXMgHtUg6pQRq` |
+| **gram (ton)** | `UQDG79-Yx7CQNzhNKH5pyUo-AFaKEpJrpjWxjrkOssnGYsE3` |
+
+## 💡 mindset
+
+even outside of main tasks, i'm actively experimenting with code. i enjoy exploring new architectural patterns in .net, optimizing desktop app performance, and brainstorming the next technical leaps for the vein ecosystem. development isn't just my major - it's my mindset.
 
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Peaostrel&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Peaostrel&theme=transparent&hide_border=true" alt="github streak" />
 </div>
