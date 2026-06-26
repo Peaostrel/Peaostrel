@@ -1,4 +1,4 @@
-# hi, i'm Maxim Akinshin 👋
+# hi, i'm maxim akinshin 👋
 
 **developer | 3rd-year btmsx student | creator of the vein ecosystem**
 
@@ -37,5 +37,8 @@ even outside of main tasks, i'm actively experimenting with code. i enjoy explor
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Peaostrel&show_icons=true&theme=transparent&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peaostrel&layout=compact&theme=transparent&hide_border=true" alt="top languages" />
+  <br />
   <img src="https://streak-stats.demolab.com/?user=Peaostrel&theme=transparent&hide_border=true" alt="github streak" />
 </div>
