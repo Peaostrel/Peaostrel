@@ -38,8 +38,7 @@ even outside of main tasks, i'm actively experimenting with code. i enjoy explor
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Peaostrel&show_icons=true&theme=transparent&hide_border=true" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peaostrel&layout=compact&theme=transparent&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Peaostrel&theme=react-dark&hide_border=true&bg_color=0d1117" alt="activity graph" width="100%" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=Peaostrel&theme=transparent&hide_border=true" alt="github streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Peaostrel&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" alt="trophies" />
 </div>
