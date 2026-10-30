@@ -28,7 +28,7 @@ if my open-source contributions helped you, feel free to drop a tip:
 | **usdt (trc20)** | `TQfBsbbdLYvdPLhbobxoLsMzdvfPi6Yp5p` |
 | **eth / evm** | `0xdd520b08780CD0eCD58b3713D9C3C5aB7263B468` |
 | **solana** | `GqHB68MkooFs2GEctsnnVmMNYpmPLGYLXMgHtUg6pQRq` |
-| **gram (ton)** | `UQDG79-Yx7CQNzhNKH5pyUo-AFaKEpJrpjWxjrkOssnGYsE3` |
+| **gram (ton)** | `UQCu9RGqdyAuEkstV1Wkto_dIIQbAdMD5KRPE9q66xZ8NjfF` |
 | **xlm** | `GDWXQBT4W6RHS4QV3CMN6DSRTT7ZC3DU5Z4JE4C3JRLTT4I4GG63Y4DT` |
 
 ## 💡 mindset
